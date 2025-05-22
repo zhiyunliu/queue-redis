@@ -1,0 +1,20 @@
+This project includes third-party code under the following licenses:
+
+1. MIT License:
+   - github.com/orcaman/concurrent-map/v2
+   - github.com/redis/go-redis/v9
+   - github.com/zhiyunliu/glue
+   - github.com/zhiyunliu/golibs
+   - github.com/zhiyunliu/redisqueue/v3
+   - github.com/cespare/xxhash/v2
+   - github.com/dgryski/go-rendezvous
+   - github.com/google/uuid
+   - github.com/imdario/mergo
+   - github.com/pkg/errors
+   - github.com/shopspring/decimal
+
+2. BSD 3-Clause:
+   - golang.org/x/sync
+
+3. BSD 2-Clause:
+   - google.golang.org/protobuf
