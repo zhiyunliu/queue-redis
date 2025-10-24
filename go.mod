@@ -4,11 +4,11 @@ go 1.23.0
 
 require (
 	github.com/redis/go-redis/v9 v9.8.0
-	github.com/zhiyunliu/glue v0.7.21
-	github.com/zhiyunliu/golibs v0.3.9
-	github.com/zhiyunliu/redisqueue/v3 v3.1.0
+	github.com/zhiyunliu/glue v0.8.2
+	github.com/zhiyunliu/golibs v0.3.12
+	github.com/zhiyunliu/redisqueue/v3 v3.1.1
 	github.com/zhiyunliu/stack v1.10.1 // indirect
-	github.com/zhiyunliu/xbinding v0.1.3 // indirect
+	github.com/zhiyunliu/xbinding v0.1.4 // indirect
 
 )
 
@@ -21,5 +21,14 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	golang.org/x/sync v0.14.0
-	google.golang.org/protobuf v1.35.2 // indirect
+	google.golang.org/protobuf v1.36.5 // indirect
+)
+
+require (
+	github.com/go-logr/logr v1.4.2 // indirect
+	github.com/go-logr/stdr v1.2.2 // indirect
+	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
+	go.opentelemetry.io/otel v1.35.0 // indirect
+	go.opentelemetry.io/otel/metric v1.35.0 // indirect
+	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 )
