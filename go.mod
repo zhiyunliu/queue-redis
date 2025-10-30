@@ -6,7 +6,7 @@ require (
 	github.com/redis/go-redis/v9 v9.8.0
 	github.com/zhiyunliu/glue v0.8.2
 	github.com/zhiyunliu/golibs v0.3.12
-	github.com/zhiyunliu/redisqueue/v3 v3.1.1
+	github.com/zhiyunliu/redisqueue/v3 v3.1.2
 	github.com/zhiyunliu/stack v1.10.1 // indirect
 	github.com/zhiyunliu/xbinding v0.1.4 // indirect
 
